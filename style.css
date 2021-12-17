@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin: 0px;;
+    padding: 0px;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+ 
+
+
+
+
+table{
+    width: 100%;
+    max-width: 90%;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+    overflow-x: auto;
+    border-spacing: 0;
+    margin: 50px,25px,25px, 50px;
+    padding: 0px;
+    border: 1px solid;
+}
+
+
+thead,th{
+    color: black;
+    background-color: rgb(211, 248, 230);
+    align-items: center;
+  
+   
+}
+th,
+td {
+    padding: 5px 10px;
+    border-top-width: 0;
+    border-left-width: 0;
+}
+
+

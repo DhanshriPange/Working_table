@@ -1,0 +1,46 @@
+{"employees" : [
+    {
+      "id": "101",
+      "fullname": "Romin Irani",
+      "phonenumber": "9876543210",
+      "email": "romin.k.irani@gmail.com",
+      "salary": "50,000",
+      "designation": "Developer",
+      "department": "computers",
+      "manager": "rakesh patil"
+  
+    },
+    {
+      "id": "102",
+      "fullname": "ganesh deshmukh",
+      "phonenumber": "408-1111111",
+      "email": "neilrirani@gmail.com",
+      "salary": "50,000",
+      "designation": "Developer",
+      "department": "computers",
+      "manager": "reva sharma"
+  
+    },
+    {
+      "id": "103",
+      "fullname": "Romin Irani",
+      "phonenumber": "9876543210",
+      "email": "romin.k.irani@gmail.com",
+      "salary": "50,000",
+      "designation": "Developer",
+      "department": "computers",
+      "manager": "rakesh patil"
+  
+    },
+    {
+      "id": "104",
+      "fullname": "Romin Irani",
+      "phonenumber": "408-2222222",
+      "email": "tomhanks@gmail.com",
+      "salary": "50,000",
+      "designation": "Programmer",
+      "department": "computers",
+      "manager": "rakesh patil"
+  
+    }
+  ]}
